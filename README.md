@@ -1,9 +1,7 @@
 ### Hi there 👋 my name is Sam ☺️
 i am learning. 
 
-i am currently a fourth year student that loves to cafe hop around van ☕️
 
-pronouns: she/her
 
 <!--
 **samwongg03/samwongg03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

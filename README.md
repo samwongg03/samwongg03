@@ -1,8 +1,7 @@
 ### hello my name is Sam ☺️
 i am a fourth year microbiology and immunology student at UBC! 
 <p> i am currently on co-op and i have been really enjoying the freedom that comes with that 😌
-<p> some of my interests include: cafe hopping ☕️🍰 running 🏃‍♀️ 
-<p> reading 📚 watching sunsets 🌄
+<p> some of my interests include: cafe hopping ☕️🍰 running 🏃‍♀️ reading 📚 watching sunsets 🌄
 
 
 

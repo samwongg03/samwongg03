@@ -1,5 +1,4 @@
-### Hi there 👋 my name is Sam
-
+### Hi there 👋 my name is Sam ☺️
 <!--
 **samwongg03/samwongg03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

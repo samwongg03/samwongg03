@@ -1,6 +1,14 @@
-### Hi there 👋 my name is Sam ☺️
-i am learning. 
-hiiii 
+### hello my name is Sam ☺️
+i am a fourth year microbiology and immunology student at UBC! 
+i am currently on co-op and i have been really enjoying the freedom that comes with that 😌
+some of my interests include: 
+    cafe hopping ☕️🍰 
+    running 🏃‍♀️
+    reading 📚
+    watching sunsets 🌄
+
+you can reach me on instagram at @samwongg03
+
 
 <!--
 **samwongg03/samwongg03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
